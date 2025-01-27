@@ -1,0 +1,38 @@
+baseURL = "http://patrik.reali.ch/"
+languageCode = "en-us"
+title = "Patrik Reali"
+
+[permalinks]
+  blog = "/:filename/"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    pageRef = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    pre = "smile"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 4
+
+[params]
+  homeText = "Happy to help!"
+  dateFormat = "Jan, 2 2006"
+
+[taxonomies]
+  tag = "tags"
