@@ -31,7 +31,7 @@ title = "Patrik Reali"
     weight = 4
 
 [params]
-  homeText = "Happy to help!"
+  homeText = "Reali Advice - Happy to help!"
   dateFormat = "Jan, 2 2006"
 
 [taxonomies]
