@@ -7,7 +7,7 @@ draft = false
 ### "Igniting Innovation: From Vision to Impact"
 
 
-I am a seasoned Swiss software engineer and experienced engineering manager with over two decades of success in launching, growing, and scaling innovative projects.
+I am a seasoned software engineer and experienced engineering manager with over two decades of success in launching, growing, and scaling innovative projects.
 
 Driven by a deep-seated passion for problem-solving and a commitment to realistic, impactful solutions, I excel at:
 

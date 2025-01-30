@@ -4,7 +4,7 @@ date = '2025-01-20T11:17:25+01:00'
 draft = false
 +++
 
-I'm a Swiss software engineer turned engineering manager with 20+ years of experience in getting innovative projects started, established, and scaled up.
+I'm a software engineer turned engineering manager with 20+ years of experience in getting innovative projects started, established, and scaled up.
 
 I spent 20 years with Google Switzerland, 17 thereof as an engineering manager:
 *   experience getting innovative (some would say crazy) projects established.
