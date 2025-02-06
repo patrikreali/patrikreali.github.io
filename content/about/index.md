@@ -18,9 +18,9 @@ I spent 20 years with Google Switzerland, 17 thereof as an engineering manager:
 
 *Google Shopping, Data Quality and Policy Enforcement* - Scale up operations from 3 to 50+ engineers, and 1 to 150+ manual raters. Reduce visible price error rate from 20+% to less than 2%. Roll out unified tooling across all functions (eng, support, sales) for operational management of the data, that was used by 6000+ unique internal users. [shopping.google.com](http://shopping.google.com/)
 
-*Google, Pension Fund Committee (Personal Vorsorgekommission)* - Design of the pension fund solution for Google Switzerland, and supervision of the operations. Deep understanding of the pension and swiss social security system.
+*Google, Pension Fund Committee (Personal Vorsorgekommission)* - Contributed to design of the pension fund solution for Google Switzerland and oversaw the operations. Developed deep understanding of the pension and the Swiss social security framework.
 
-*Lecturer and Teacher* - I've always enjoyed teaching. I tought the core "operating system" lecture at ETH-Z, and introduction to C# at the Fachhoschule Nordwest, and I established the first onboarding classes for Google Zurich.
+*Lecturer and Teacher* - I've always enjoyed teaching. I thought the core "operating system" lecture at ETH-Z, and introduction to C# at the Fachhochschule Nordwestschweiz, and I established the first onboarding classes for Google Zurich.
 
 ### Recent Appearances
 

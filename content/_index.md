@@ -19,7 +19,7 @@ Driven by a deep-seated passion for problem-solving and a commitment to realisti
 
 To empower individuals and organizations to achieve their full potential through:
 
-*   **Personalized Coaching & Mentoring:** Gain valuable insights and guidance on navigating career challenges, enhancing leadership skills, and unlocking your professional aspirations. Or get help filling your swiss taxes or planning your finances. You decide.
+*   **Personalized Coaching & Mentoring:** Gain valuable insights and guidance on navigating career challenges, enhancing leadership skills, and unlocking your professional aspirations. Or get help filling your Swiss taxes or planning your finances. You decide.
 *   **Consulting:** Receive expert advice on optimizing project execution, improving team dynamics, and achieving business objectives.
 *   **Development:** Realize exciting projects, aim for simplicity.
 
