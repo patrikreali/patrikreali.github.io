@@ -29,7 +29,7 @@ To empower individuals and organizations to achieve their full potential through
 
 ### My Current Work
 
-I'm busy finalizing the launch of [fiplanner.ch](https://fiplanner.ch/) till the end of the year.
+I'm busy finalizing the launch of [fiplanner.ch](https://fiplanner.ch/).
 
 I'm helping a few startups with advice and support.
 

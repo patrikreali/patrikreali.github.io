@@ -26,6 +26,7 @@ draft = false
 ## CSS
 
 *   [CSS - Visual Guide](https://www.fffuel.co/css-selectors/)
+*   [CSS - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Git
 
