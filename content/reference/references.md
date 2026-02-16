@@ -2,7 +2,7 @@
 title = 'References'
 date = '2025-01-21T14:11:28+01:00'
 tags = []
-draft = true
+draft = false
 +++
 
 
@@ -20,7 +20,7 @@ draft = true
 
 ## Bash
 
-*   [Bash Scriptting Cheatsheet](https://devhints.io/bash)
+*   [Bash Scripting Cheatsheet](https://devhints.io/bash)
 
 
 ## CSS

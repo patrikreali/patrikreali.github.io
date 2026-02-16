@@ -15,19 +15,24 @@ Driven by a deep-seated passion for problem-solving and a commitment to realisti
 *   **Executing with agility:** Breaking down complex challenges into manageable steps for efficient delivery.
 *   **Building high-performing teams:** Fostering collaboration, communication, and cross-functional alignment.
 
-### My Mission:
+### My Mission
 
 To empower individuals and organizations to achieve their full potential through:
 
+*   **Invest in promizing startups:** Support great initiatives.
 *   **Personalized Coaching & Mentoring:** Gain valuable insights and guidance on navigating career challenges, enhancing leadership skills, and unlocking your professional aspirations. Or get help filling your Swiss taxes or planning your finances. You decide.
 *   **Consulting:** Receive expert advice on optimizing project execution, improving team dynamics, and achieving business objectives.
 *   **Development:** Realize exciting projects, aim for simplicity.
 
-**Let's collaborate to transform your vision into reality. Contact me today for a consultation.**
 
+<!-- **Let's collaborate to transform your vision into reality. Contact me today for a consultation.** -->
+
+### My Current Work
+
+I'm busy finalizing the launch of [fiplanner.ch](https://fiplanner.ch/) till the end of the year.
+
+I'm helping a few startups with advice and support.
 
 ### Contact
-
-Mentoring sessions at ~~250 CHF~~ 150 CHF for a 55 minutes session (initial pricing for Q1 2025). The first 30 minute session is free.
 
 You can reach me at patrik@reali.ch.
