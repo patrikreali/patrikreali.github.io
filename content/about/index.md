@@ -1,6 +1,6 @@
 +++
 title = 'About Patrik'
-date = '2025-01-20T11:17:25+01:00'
+date = '2026-07-05T11:17:25+01:00'
 draft = false
 +++
 
