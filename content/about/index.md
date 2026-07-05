@@ -52,3 +52,26 @@ PhD in Computer Science, ETH Zurich
 
 1995
 Dipl. Inf-Eng, ETH Zurich
+
+### Publications
+
+**Using Oberon's active objects for language interoperability and compilation**  
+P. Reali  
+Doctoral Thesis, ETH Zurich, 2003  
+[ETH Research Collection](https://www.research-collection.ethz.ch/entities/publication/9d3ea231-9ad4-4ad8-b0ae-c5a4fd064022)
+
+P. Reali. **Structuring a Compiler with Active Objects.** In J. Gutknecht and W. Weck, editors, *Proceedings of JMLC*, volume 1897 of LNCS, pages 250–262, Zurich, Switzerland, 2000. Springer.
+
+**Combining Oberon with active objects**  
+A. R. Disteli, P. Reali  
+*Joint Modular Languages Conference*, 1997
+
+### Patents
+
+**System and method for enabling website owners to manage crawl rate in a website indexing system**  
+V. Fox, A. A. Camp, M. Ibel, P. Reali, J. J. Lilley, K. J. Lai, T. J. Bonkenburg, N. D. Cardwell  
+US Patent 8,032,518, 2011
+
+**System and method for enabling website owners to manage crawl rate in a website indexing system**  
+V. Fox, A. A. Camp, M. Ibel, P. Reali, J. J. Lilley, K. J. Lai, T. J. Bonkenburg, N. D. Cardwell  
+US Patent 7,599,920, 2009
