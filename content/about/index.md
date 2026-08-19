@@ -19,6 +19,8 @@ I spent 20 years with Google Switzerland, 17 thereof as an engineering manager:
 
 *Travel Impact Model* - Started project to add CO2 emission data to Google Flight Search from voluntary contribution and grew into a project with 20+ FTE engineers and a de-facto industry-wide standard used across the whole industry and serving 65B queries (and still counting). [travelimpactmodel.org](https://travelimpactmodel.org/)
 
+*Investor and/or Advisor* - I help promising startups. I'm invested in [UpLeap](http://upleap.me/), [Stellos](http://stellos.com/), [Ahead Health](http://ahead.clinic/), [Everyman Health](http://everyman.health/). Successful exits: [Deadalean](http://daedalean.ai/).
+
 *Google Shopping, Data Quality and Policy Enforcement* - Scale up operations from 3 to 50+ engineers, and 1 to 150+ manual raters. Reduce visible price error rate from 20+% to less than 2%. Roll out unified tooling across all functions (eng, support, sales) for operational management of the data, that was used by 6000+ unique internal users. [shopping.google.com](http://shopping.google.com/)
 
 *Google, Pension Fund Committee (Personal Vorsorgekommission)* - Contributed to design of the pension fund solution for Google Switzerland and oversaw the operations. Developed deep understanding of the pension and the Swiss social security framework.
