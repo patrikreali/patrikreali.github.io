@@ -33,6 +33,8 @@ I'm busy finalizing the launch of [fiplanner.ch](https://fiplanner.ch/).
 
 I'm helping a few startups with advice and support.
 
+See more on my [about me]("/about/") page.
+
 ### Contact
 
 You can reach me at patrik@reali.ch.

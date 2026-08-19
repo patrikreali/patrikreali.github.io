@@ -16,7 +16,6 @@ I spent 20 years with Google Switzerland, 17 thereof as an engineering manager:
 
 *Fiplanner* - Co-founder. Financial planning simulation for Switzerland to find your financial independence date. [fiplanner.ch](https://www.fiplanner.ch/)
 
-*Investor and/or Advisor* - I help promising startups. I'm invested in [UpLeap](http://upleap.me/), [Share.P](http://sharep.io/), [Ahead Health](http://ahead.clinic/), [Everyman Health](http://everyman.health/). Successful exits: [Deadalean](http://daedalean.ai/).
 
 *Travel Impact Model* - Started project to add CO2 emission data to Google Flight Search from voluntary contribution and grew into a project with 20+ FTE engineers and a de-facto industry-wide standard used across the whole industry and serving 65B queries (and still counting). [travelimpactmodel.org](https://travelimpactmodel.org/)
 
@@ -45,6 +44,9 @@ Article [about.google So ambitioniert wie die Mondlandung](https://about.google/
 
 *Cooking* - Algorithms with great benefits. See some of my favorite [recipes](/tags/recipes/) .
 
+*Running* - See me on [Strava](https://www.strava.com/athletes/31779834).
+
+
 ### Education
 
 2003
@@ -54,6 +56,9 @@ PhD in Computer Science, ETH Zurich
 Dipl. Inf-Eng, ETH Zurich
 
 ### Publications
+
+**FI Planner Founder's Journal**  
+[Weekly Blog](http://fiplanner.ch/blog/)
 
 **Using Oberon's active objects for language interoperability and compilation**  
 P. Reali  
