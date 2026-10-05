@@ -16,7 +16,9 @@ I spent 20 years with Google Switzerland, 17 thereof as an engineering manager:
 
 *Fiplanner* - Co-founder. Financial planning simulation for Switzerland to find your financial independence date. [fiplanner.ch](https://www.fiplanner.ch/)
 
-*Investor and/or Advisor* - I help promising startups. I'm invested in [UpLeap](http://upleap.me/), [Stellos](http://stellos.com/), [Ahead Health](http://ahead.clinic/), [Everyman Health](http://everyman.health/). Successful exits: [Deadalean](http://daedalean.ai/).
+*Investor and/or Advisor* - I help promising startups. I'm invested in [ROVR](http://rovr.ch/), [UpLeap](http://upleap.me/), [Stellos](http://stellos.com/), [Ahead Health](http://ahead.clinic/), [Everyman Health](http://everyman.health/). Successful exits: [Deadalean](http://daedalean.ai/).
+
+**Earlier**
 
 *Travel Impact Model* - Started project to add CO2 emission data to Google Flight Search from voluntary contribution and grew into a project with 20+ FTE engineers and a de-facto industry-wide standard used across the whole industry and serving 65B queries (and still counting). [travelimpactmodel.org](https://travelimpactmodel.org/)
 
