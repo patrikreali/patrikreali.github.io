@@ -16,7 +16,7 @@ I spent 20 years with Google Switzerland, 17 thereof as an engineering manager:
 
 **FI Planner AG** - Co-founder. Financial planning simulation for Switzerland to find your financial independence date. [fiplanner.ch](https://www.fiplanner.ch/)
 
-**Investor and/or Advisor** - I help promising startups. I'm invested in [ROVR](http://rovr.ch/), [UpLeap](http://upleap.me/), [Stellos](http://stellos.com/), [Ahead Health](http://ahead.clinic/), [Everyman Health](http://everyman.health/). Successful exits: [Deadalean](http://daedalean.ai/).
+**Investor and/or Advisor** - I help promising local startups. I'm invested in [ROVR](http://rovr.ch/), [UpLeap](http://upleap.me/), [Stellos](http://stellos.com/), [Ahead Health](http://ahead.clinic/), [Everyman Health](http://everyman.health/). Successful exits: [Deadalean](http://daedalean.ai/).
 
 *Earlier*
 
